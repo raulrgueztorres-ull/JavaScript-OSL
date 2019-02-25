@@ -1,0 +1,17 @@
+#dado
+{
+  dislay: flex;
+  width: 5%;
+  font-size: 100px;
+  padding-left: 2.5%;
+}
+
+#button {
+  background-color: #FBBC05; 
+  color: white;
+  padding: 7px 20px;
+  text-align: center;
+  font-size: 2vw;
+  border-color: white; 
+  box-shadow: 5px 12px 18px     #696969, -1px -2px 10px gray inset;
+}
