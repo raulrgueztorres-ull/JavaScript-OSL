@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en" >
+
+<head>
+  <meta charset="UTF-8">
+  <title>MP3</title>
+  
+  
+  
+      <link rel="stylesheet" href="css/style.css">
+
+  
+</head>
+
+<body>
+
+  <div id="player">
+  <div id="lcd"><span></span></div>
+  <audio id="song"></audio>
+  <div id="buttons">
+    <button id="play" onclick="reproducir(), mostrar()">Play</button>
+    <button id="pause" onclick="pausa()">
+    Pause</button>
+    <button id="next" onclick="siguiente(), mostrar()">Next</button>
+    <button id="down" onclick="bajar_v()">Bajar</button>
+    <button id="up" onclick="subir_v()">Subir</button>   
+  </div>
+</div>
+  
+  
+
+    <script src="js/index.js"></script>
+
+
+
+
+</body>
+
+</html>

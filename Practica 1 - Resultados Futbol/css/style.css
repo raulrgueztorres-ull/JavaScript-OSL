@@ -1,0 +1,79 @@
+body
+{
+  background-image: url('http://www.hdfondos.eu/preview/get_photo/59429/2560/1440');
+    background-repeat: no-repeat;
+    background-position: center;
+    overflow: hidden;
+}
+
+#teamA
+{
+  font-size: 3vw;
+  color: white;
+  margin: auto;
+}
+
+#teamB
+{
+  font-size: 3vw;
+  color: white;
+  margin: auto;
+}
+
+#goals
+{
+  font-size: 5vw;
+  color: white;
+  margin: auto;
+}
+
+.marcador
+{
+  margin: auto;
+  padding-top: 50px;
+  display: flex;
+  margin-left: 75px;
+}
+
+#teams td
+{
+  width: 500px;
+  height: 100px;
+  text-align: center;
+}
+
+#goals td
+{
+  width: 500px;
+  height: 100px;
+  text-align: center;
+}
+
+td
+{
+  border: 8px solid white;
+}
+
+#button
+{
+  background-color: #3261A9;
+  color: white;
+  margin-top: 20px;
+  margin-right: 20px;
+  text-align: center;
+  font-size: 2vw;
+  border-color: white; 
+  box-shadow: 5px 7px 8px white, -1px -2px 7px white inset;
+}
+
+#button-div
+{
+ margin-left: 424px; 
+ margin-top: 80px;
+}
+
+.clasificacion
+{
+  margin-top: 95px;
+  margin-left: 75px;  
+}
