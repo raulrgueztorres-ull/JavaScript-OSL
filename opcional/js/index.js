@@ -40,7 +40,7 @@ function mute_song()
 
 //------------------------------Wallpapers---------------------------------------------------
 var background = [];
-background[0] = 'url("http://www.wallpapermaiden.com/wallpaper/14155/download/2100x1320/iron-man-marvel-comics.jpg")';
+background[0] = 'url("https://images4.alphacoders.com/812/812514.jpg")';
 background[1] = 'url("http://papers.co/wallpaper/papers.co-au73-hero-captain-america-jeehyunglee-illustration-art-paint-23-wallpaper.jpg")';
 background[2] = 'url("http://free.wallpaperbackgrounds.com/comics/black%20widow/163281-20182.jpg")';
 background[3] = 'url("https://wallimpex.com/file/load/334/1920x1080-7108303-wallpapers-hulk-3d.jpg")';
