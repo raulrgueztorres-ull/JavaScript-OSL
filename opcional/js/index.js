@@ -2,6 +2,7 @@
 document.getElementById("logo").innerHTML='<img src="http://thetechnews.com/wp-content/uploads/2018/03/2_The-latest-Marvel-logo.jpg" />';
 document.getElementById("information").textContent = "Designed by Raúl Rodríguez Torres";
 //--------------------------------------------------------------------
+
 //-------------------------Mute button--------------------------------
 var mute = document.getElementById("mute");
 mute.innerHTML = '<img src="https://banner2.kisspng.com/20180716/gg/kisspng-computer-icons-user-interface-sound-sound-button-5b4c53393066d4.7519634415317286971983.jpg" />';
