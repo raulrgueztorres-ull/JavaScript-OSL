@@ -1,0 +1,73 @@
+body
+{
+  background-color: #EC1D23;  
+}
+
+#logo 
+{
+  display: flex;
+  justify-content: center;
+  animation-name: logo_animation;
+  animation-duration: 6s;
+}
+
+@keyframes logo_animation {
+from {transform: scale(0);}
+to {transform: scale(1);}
+}
+
+#information
+{
+  display: flex;
+  justify-content: center;
+  font-family: Marvel;
+  font-size: 41px; 
+  font-style: normal; 
+  font-variant: normal; 
+  font-weight: 700; 
+  line-height: 77.9px; 
+  color: #FFFFFD;
+  animation-name: logo_animation;
+  animation-duration: 6s;  
+}
+
+#mute
+{
+  background-color: white;
+  display: inline-block;
+  width: 50px;
+  height: 30px;
+}
+
+#mute img
+{
+  width: 50px;
+  height: 30px;
+}
+
+#ready
+{
+  display: flex;
+  justify-content: center;
+  width: 250px;
+  height: 120px;
+  margin: auto;
+  margin-top: 75px;
+  font-family: Marvel;
+  font-size: 60px;
+  text-shadow: 2px 0 0 black, -2px 0 0 black, 0 2px 0 black, 0 -2px 0 black, 1px 1px black, -1px -1px 0 black, 1px -1px 0 black, -1px 1px 0 black;
+  color: white;
+  
+  animation-name: logo_animation;
+  animation-duration: 6s;
+}
+
+#ready h1 {
+	font-size: 3vw;
+	-webkit-transition: .3s ease-in-out;
+	transition: .3s ease-in-out;
+}
+
+#ready h1:hover {
+	font-size: 4vw;
+}
